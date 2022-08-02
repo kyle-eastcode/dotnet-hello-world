@@ -1,4 +1,4 @@
-# DotNet Hello World
+# Hello World - DotNet
 
 This is a simple hello world api server written in .NET and designed to be deployed to an IIS server running on Windows OS.
 
@@ -7,10 +7,10 @@ This is a simple hello world api server written in .NET and designed to be deplo
 ## Getting Started
 
 1. Download and unzip or clone the sample repository from github:
-   `https://github.com/kyle-eastcode/dotnet-hello-world.git`
+   `https://github.com/kyle-eastcode/helloworld-dotnet.git`
 
-2. In a PowerShell window, move into the new `dotnet-hello-world` directory:
-   `cd dotnet-hello-world`
+2. In a PowerShell window, move into the new `helloworld-dotnet` directory:
+   `cd helloworld-dotnet`
 
 3. Start a local web server:
    `dotnet run`
